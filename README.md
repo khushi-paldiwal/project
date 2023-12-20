@@ -24,4 +24,4 @@ The Organization Punch In System is a Laravel-based web application designed to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/khushi-paldiwal/mini-project.git
+   git clone https://github.com/khushi-paldiwal/project.git
