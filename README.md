@@ -19,6 +19,14 @@ The Organization Punch In System is a Laravel-based web application designed to 
 - **Blade Templates**: Laravel's templating engine for dynamic views.
 - **Eloquent ORM**: Laravel's elegant ORM for database interactions.
 
+## Contributors to the project
+
+-Khushi: ContactController.php and ContactPolicy.php
+-Akshay: Models and Migrations 
+-Janav: Routes (web.php) and Ideation of project
+-Netal: Contacts in Views of the project + CSS
+-Pratyush: Layouts in Views of the project + CSS
+
 ## Setup Instructions
 
 1. Clone the repository:
