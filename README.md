@@ -23,7 +23,7 @@ The Organization Punch In System is a Laravel-based web application designed to 
 
 - **Khushi**: Controllers and Policy of project
 - **Akshay**: Models and Migrations 
-- **Janav**: Routes (web.php) and Ideation of project
+- **Janav**: Routes (web.php), Authentication and Ideation of project
 - **Netal**: Contacts in Views of the project + CSS
 - **Pratyush**: Layouts in Views of the project + CSS
 
